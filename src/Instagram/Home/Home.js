@@ -51,7 +51,6 @@ function Home(){
                         <h4>Create</h4>
                     </div>
                     <div className="row">
-                        {/* <img src={notification} height='25px' />  */}
                         <div className="profile">B</div>
                         <h4>Profile</h4>
                     </div>
@@ -280,4 +279,5 @@ function Home(){
         </div>
     )
 }
+
 export default Home;
